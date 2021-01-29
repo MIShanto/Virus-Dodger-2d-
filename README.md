@@ -1,6 +1,6 @@
 # Virus-Dodger-2d-
 
-2d endless survival game
+2d endless survival game. (all code and build of this game is hidden.. )
 
 <h3>Gameplay Scenes</h3>
 
