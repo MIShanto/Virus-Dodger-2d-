@@ -1,5 +1,9 @@
 # Virus-Dodger-2d-
 
+<h4>Click on this thumbnail to watch the gameplay. (redirects to youtube...)</h4>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/fkJ3-urm3Sg/0.jpg)](http://www.youtube.com/watch?v=fkJ3-urm3Sg&feature=youtu.be&ab_channel=M.IShanto "Watch Gameplay.. ")
+
 2d endless survival game. (all code and build of this game is hidden.. )
 
 <h3>Gameplay Scenes</h3>
