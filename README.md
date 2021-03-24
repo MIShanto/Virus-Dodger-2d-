@@ -4,7 +4,7 @@
 
 <h4>Click on this thumbnail to watch the gameplay. (redirects to youtube...)</h4>
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/fkJ3-urm3Sg/0.jpg)](http://www.youtube.com/watch?v=fkJ3-urm3Sg&feature=youtu.be&ab_channel=M.IShanto "Watch Gameplay.. ")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/oqy-COdU45E/0.jpg)](https://www.youtube.com/watch?v=oqy-COdU45E "Watch Gameplay.. ")
 
 
 <h3>Gameplay Scenes</h3>
